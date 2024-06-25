@@ -1,1 +1,1 @@
-# goit-markup-hw-03
+# Web Studio site. HTML + CSS + JS
